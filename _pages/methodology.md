@@ -10,8 +10,6 @@ author_profile: false
 <h2> Regeneration Learning </h2>
 <p align="center">
   <a href="https://arxiv.org/abs/2301.08846">
-  <img src="../images/Regeneration1.png" width="80%" align="center"/> 
-  <br /> <br /> <br />
   <img src="../images/Regeneration.png" width="80%" align="center"/> 
   <br /> <br /> <br />
   <img src="../images/Regeneration2.png" width="80%" align="center"/></a>
@@ -20,6 +18,27 @@ author_profile: false
   Regeneration Learning: A Learning Paradigm for Data Generation</a></h3>
 </p>
 <br />
+
+----
+
+<p><span id="method_architecture" name="method_architecture"></span></p>
+<h2> Transformer Architecture</h2>
+
+<p align="center">
+   <br />
+   <img src="../images/ResiDual.png" width="80%" align="center"/> 
+  <br />
+  <h3><a href="https://arxiv.org/abs/2304.14802">ResiDual: Transformer with Dual Residual Connections</a></h3>
+</p>
+<br />
+
+---
+<p align="center">
+   <br />
+  <h3><a href="https://arxiv.org/abs/2302.06461">A Study on ReLU and Softmax in Transformer</a></h3>
+</p>
+<br />
+
 
 ----
 
