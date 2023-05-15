@@ -9,6 +9,17 @@ author_profile: false
 <br/> 
 
 <p align="center">
+  <a href="https://medium.com/syncedreview/microsofts-naturalspeech-2-outperforms-previous-tts-systems-in-zero-shot-speech-and-singing-69749ab0caf3">
+  <img src="../images/NaturalSpeech2.png" width="70%" align="center"/></a> 
+  <br />
+  <h3><a href="https://arxiv.org/abs/2304.09116">
+  NaturalSpeech 2: Latent Diffusion Models are Natural and Zero-Shot Speech and Singing Synthesizers, arXiv 2023</a></h3>
+</p>
+<br />
+
+---
+
+<p align="center">
   <a href="https://techcommunity.microsoft.com/t5/ai-cognitive-services-blog/new-technical-research-is-advancing-azure-s-neural-text-to/ba-p/3499414/">
   <img src="../images/NaturalSpeech.png" width="60%" align="center"/></a> 
   <br />
