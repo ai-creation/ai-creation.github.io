@@ -11,7 +11,7 @@ Our mission is to empower every person and every organization on the planet to c
 Our efforts include developing fundamental methodologies for content creation and designing dedicated models for each creation task: 
 * ***Fundamental Methologies for Content Creation***
   + [**Regeneration Learning**](https://arxiv.org/abs/2301.08846), a learning paradigm for data generation, as a counterpart of representation learning for data understanding. 
-  + [**Transformer Architecture**](https://ai-creation.github.io/methodology/#method_memory), which enhance Transformer with advanced architecture designs or memory/retrieval to ease data generation.
+  + [**Transformer Architecture**](https://ai-creation.github.io/methodology/#method_architecture), which enhance Transformer with advanced architecture designs or memory/retrieval to ease data generation.
   + [**Diffusion Models**](https://ai-creation.github.io/methodology/#method_diffusion), focusing on inference speedup and applying to discrete data generation.
 * ***Speech Generation***
   + [**FastSpeech**](https://arxiv.org/abs/1905.09263) & [**FastSpeech 2**](https://arxiv.org/abs/2006.04558): Widely adopted text-to-speech synthesis models.
