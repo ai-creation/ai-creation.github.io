@@ -9,6 +9,18 @@ author_profile: false
 <br/> 
 
 
+
+<br />
+<p align="center">
+  <a href="https://github.com/microsoft/muzic">
+  <img src="../images/muzic.png" width="80%" align="center"/> </a> 
+  <br />
+  <h3> Please refer to <a href="https://github.com/microsoft/muzic">https://github.com/microsoft/muzic</a> for more information! <h3>
+</p>
+<br />
+    
+---
+    
 <p align="center">
   <a href="https://arxiv.org/abs/2210.10349">
   <img src="../images/Museformer.png" width="100%" align="center"/></a> 
@@ -74,14 +86,4 @@ author_profile: false
 <br />
 
 
-
----
-<br />
-<p align="center">
-  <a href="https://github.com/microsoft/muzic">
-  <img src="../images/muzic.png" width="80%" align="center"/> </a> 
-  <br />
-  <h3> Please refer to <a href="https://github.com/microsoft/muzic">https://github.com/microsoft/muzic</a> for more information! <h3>
-</p>
-<br />
 
